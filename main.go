@@ -1,7 +1,7 @@
 package main
 
 import (
-	"SUBMAIL/submail"
+	"github.com/xiunew/SUBMAIL/submail"
 	"fmt"
 )
 
